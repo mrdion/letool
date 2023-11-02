@@ -42,7 +42,7 @@ We then searched for this pattern in the exe file using WinHex and found this:
 
 ![Fixup Example](fixup6.png)
 
-Now, we understand how fixups are created. I hope you can understand it too, from this example. Good luck.
+Now, we understand how fixups are created. I hope you can understand it too, from this example.
 
 
 
